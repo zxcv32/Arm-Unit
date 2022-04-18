@@ -12,7 +12,13 @@ a standard server rack.
 > Find it in thingiverse: https://www.thingiverse.com/thing:5357929
 
 ## Arm Unit Case
-![img.png](img.png)
+![Arm Unit Cases - Base.PNG](assets/img/Arm%20Unit%20Cases%20-%20Base.PNG)
+![Arm Unit Cases - Base - External Cut.PNG](assets/img/Arm%20Unit%20Cases%20-%20Base%20-%20External%20Cut.PNG)
+![Arm Unit Cases - Base Extension - Length Cut.PNG](assets/img/Arm%20Unit%20Cases%20-%20Base%20Extension%20-%20Length%20Cut.PNG)
+![Arm Unit Cases - Base Extension - Width Cut.PNG](assets/img/Arm%20Unit%20Cases%20-%20Base%20Extension%20-%20Width%20Cut.PNG)
+![Arm Unit Cases - Base Extension - Width Cut - External Cut.PNG](assets/img/Arm%20Unit%20Cases%20-%20Base%20Extension%20-%20Width%20Cut%20-%20External%20Cut.PNG)
+![Arm Unit Cases - Mid.PNG](assets/img/Arm%20Unit%20Cases%20-%20Mid.PNG)
 
 ## Arm Unit Joints
-![img.png](assets/img/img.png)
+![Arm Unit Joints - Straight.PNG](assets/img/Arm%20Unit%20Joints%20-%20Straight.PNG)
+![Arm Unit Joints - Angle.PNG](assets/img/Arm%20Unit%20Joints%20-%20Angle.PNG)
