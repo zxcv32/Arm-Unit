@@ -9,6 +9,8 @@ a standard server rack.
 | Arm Unit Cases               | https://a360.co/37TzJ2S  |
 | Arm Unit Joints             | https://a360.co/3KNx6hH  |
 
+> Find it in thingiverse: https://www.thingiverse.com/thing:5357929
+
 ## Arm Unit Case
 ![img.png](img.png)
 
