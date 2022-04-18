@@ -7,7 +7,7 @@ a standard server rack.
 | Components                  | Link                     |
 |-----------------------------|--------------------------|
 | Arm Unit Case               | https://a360.co/37TzJ2S  |
-| Joints                      | https://a360.co/3KNx6hH  |
+| Arm Unit Joints             | https://a360.co/3KNx6hH  |
 
 ## Arm Unit Case
 ![img.png](img.png)
