@@ -1,7 +1,7 @@
 # Arm Unit
 > Warning: This project is currently in prototype phase
 
-Standard case specs for low powered devices. The components can be chained and inserted into
+Universal modular case specs for low powered devices. The components can be chained and inserted into
 a standard server rack.
 
 | Components                  | Link                     |
