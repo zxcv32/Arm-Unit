@@ -12,5 +12,5 @@ a standard server rack.
 ## Arm Unit Case
 ![img.png](img.png)
 
-## Joints
+## Arm Unit Joints
 ![img.png](assets/img/img.png)
