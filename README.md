@@ -28,7 +28,7 @@ into a standard server rack.
 |                  |                                      |
 |----------------------------|--------------------------------------|
 |     ![](asset/img/Mid.png)      | ![](asset/img/Mid%20-%20Width%20Cut.png) |
-|     ![](asset/img/Mid Extension.png)      |                                      |
+|     ![](asset/img/Mid%20Extension.png)      |                                      |
 
 ## Arm Unit Joints
 
