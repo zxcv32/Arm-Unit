@@ -22,6 +22,7 @@ into a standard server rack.
 |                  |                                      |
 |----------------------------|--------------------------------------|
 |       ![](asset/img/Lid.png)      | ![](asset/img/Lid%20Mid%20-%20Joint.png) |
+|       ![](asset/img/Lid%20Mid%20-%20Joint%20-%20Width%20Cut.png)      |  |
 
 ## Arm Unit Mids
 
