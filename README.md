@@ -36,3 +36,6 @@ into a standard server rack.
 |                  |                                      |
 |----------------------------|--------------------------------------|
 |       ![](asset/img/Straight.png)   |                  ![](asset/img/Angle.png)                    |
+
+## Arm Unit Base Drawing
+![](asset/img/Base%20Arm%20Unit%20Drawing.jpg)
