@@ -1,13 +1,16 @@
 # Arm Unit
 
-Universal modular case specs for low powered devices. The components can be chained and inserted
-into a standard server rack.
+Universal modular case specification and design repository for low powered devices. The components can be chained and inserted into a standard server rack.
 
 | Components                 | Link                     |
 |----------------------------|--------------------------|
-| Arm Unit               | https://a360.co/37TzJ2S  |
+| Arm Unit                   | https://a360.co/37TzJ2S  |
+| Bolt screws & nuts - M3                 | [Amazon.in - Bolt screws & nuts - M3](https://www.amazon.in/gp/product/B082NYR7G8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  |
+| Magnets - 5 X 2 mm (disk)    | [Amazon.in - Magnets - 5 X 2 mm](https://www.amazon.in/gp/product/B08DNH63JV/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) |
 
-> Find it in thingiverse: https://www.thingiverse.com/thing:5357929
+> Find it on thingiverse: https://www.thingiverse.com/thing:5357929
+
+> STL files in `3d` directory
 
 ## Arm Unit Bases
 
