@@ -4,7 +4,7 @@ Universal modular case specification and design repository for low powered devic
 
 | Components                 | Link                     |
 |----------------------------|--------------------------|
-| [Arm Unit.f3d](fusion360/Arm%20Unit.f3d)        | [Autodesk Fusion 360 - Web](https://a360.co/37TzJ2S)  |
+| [Arm Unit.f3d](fusion360/)        | [Autodesk Fusion 360 - Web](https://a360.co/37TzJ2S)  |
 | Bolt screws & nuts - M3    | [Amazon.in - Bolt screws & nuts - M3](https://amzn.eu/d/aNlrJWk)  |
 | Magnets - 5 X 2 mm (disk)    | [Amazon.in - Magnets - 5 X 2 mm](https://amzn.eu/d/6y1oyuh) |
 
