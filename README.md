@@ -1,44 +1,19 @@
 # Arm Unit
 
-Universal modular case specification and design repository for low powered devices. The components can be chained and inserted into a standard server rack.
+Universal modular case specification and design repository for low powered devices.
 
-| Components                 | Link                     |
-|----------------------------|--------------------------|
-| [Arm Unit.f3d](fusion360/)        | [Autodesk Fusion 360 - Web](https://a360.co/37TzJ2S)  |
-| Bolt screws & nuts - M3    | [Amazon.in - Bolt screws & nuts - M3](https://amzn.eu/d/aNlrJWk)  |
-| Magnets - 5 X 2 mm (disk)    | [Amazon.in - Magnets - 5 X 2 mm](https://amzn.eu/d/6y1oyuh) |
+The components can be chained or stacked.
 
-> Find it on thingiverse: https://www.thingiverse.com/thing:5357929
+| Components                             | Link                                                                               |
+|----------------------------------------|------------------------------------------------------------------------------------|
+| [Arm Unit f3d source file](fusion360/) | [Autodesk Fusion 360 - Online Viewer](https://a360.co/37TzJ2S){:target="_blank"}   |
+| Bolt screws & nuts - M3                | [Amazon.in - Bolt screws & nuts - M3](https://amzn.eu/d/aNlrJWk){:target="_blank"} |
+| Magnets - 5 X 2 mm (disk)              | [Amazon.in - Magnets - 5 X 2 mm](https://amzn.eu/d/6y1oyuh){:target="_blank"}      |
 
-> STL files in `3d` directory
+STL files can be directly viewed from [`./3d` directory](./3d)
 
-## Arm Unit Bases
-
-|                  |                                           |
-|----------------------------|-----------------------------------------------|
-|        ![](asset/img/Base.png)     | ![](asset/img/Base%20-%20External%20Cut.png)      |
-|        ![](asset/img/Base%20Extension%20-%20Length%20Cut.png)     | ![](asset/img/Base%20Extension%20-%20Width%20Cut.png) |
-|        ![](asset/img/Base%20Extension%20-%20Width%20Cut%20-%20External%20Cut.png)     |                                               |
-
-## Arm Unit Lids
-
-|                  |                                      |
-|----------------------------|--------------------------------------|
-|       ![](asset/img/Lid.png)      | ![](asset/img/Lid%20Mid%20-%20Joint.png) |
-|       ![](asset/img/Lid%20Mid%20-%20Joint%20-%20Width%20Cut.png)      | ![](asset/img/Lid%20Mid%20-%20Joint%20-%20Width%20Cut%20-%20Fan%20Cut.png) |
-
-## Arm Unit Mids
-
-|                  |                                      |
-|----------------------------|--------------------------------------|
-|     ![](asset/img/Mid.png)      | ![](asset/img/Mid%20-%20Width%20Cut.png) |
-|     ![](asset/img/Mid%20Extension.png)      |                                      |
-
-## Arm Unit Joints
-
-|                  |                                      |
-|----------------------------|--------------------------------------|
-|       ![](asset/img/Straight.png)   |                  ![](asset/img/Angle.png)                    |
+> Find it on [thingiverse](https://www.thingiverse.com/thing:5357929){:target="_blank"}
 
 ## Arm Unit Base Drawing
+
 ![](asset/img/Base%20Arm%20Unit%20Drawing.jpg)
